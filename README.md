@@ -38,6 +38,14 @@ The product repository is the authority for implemented behaviour. The current r
 
 The visual-language layer is documented in `VISUAL_LANGUAGE.md`, `ART_DIRECTION.md`, and `PRODUCT_ART_DIRECTION.md`. Together they define how Resonant remains recognisable beyond its logo, type, colour, and spacing systems.
 
+## Design Reference
+
+[`Design-Reference/`](Design-Reference/index.html) is the official static UI Kit and design-reference portal for this repository. It translates the Brand Book into inspectable foundations, reusable component states, interaction patterns, and composed product examples.
+
+Its purpose is to keep the visual language operational across the website, desktop app, future mobile surfaces, marketing mockups, and product screenshots. It does not replace the Brand Book or the product repository: the Brand Book defines the identity and rules, the Design Reference demonstrates how those rules compose, and the application repository remains authoritative for implemented behaviour.
+
+Future implementation work should reference both [`Resonant-Style/`](Resonant-Style/00-START-HERE.md) and [`Design-Reference/`](Design-Reference/index.html). The Design Reference is static by design and is not a production component library.
+
 `PROJECT_STATUS.md` records the verified scope, open TODOs, and the recommended Canva production path.
 
 For implementation handoff, start with [`CODEX_HANDOFF.md`](CODEX_HANDOFF.md). The current publication output is [`Resonant-Brandbook-v0.5.pdf`](Resonant-Brandbook-v0.5.pdf).

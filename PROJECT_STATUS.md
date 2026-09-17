@@ -42,6 +42,40 @@ Version 1 of the documentation repository has been expanded from a set of founda
 - Expanded `Resonant-Style/26-DESIGN_TOKENS.md` with a clearly marked proposal layer for radius, elevation, blur, transparency, motion curves, timing, and visual-language semantics; these are not production-approved tokens yet.
 - Defined the next implementation gate: freeze the Version 1 Brand Book after review, then build the Resonant UI Kit before adding new one-off product pages.
 
+## Design Reference / UI Kit completed
+
+The static Resonant UI Kit is now integrated into this repository at [`Design-Reference/`](Design-Reference/index.html). It is the shared visual reference for the website, desktop app, future mobile surfaces, marketing mockups, and product screenshots.
+
+### Completed
+
+- Added a design-reference portal with version, Brand Book version, navigation, and update date.
+- Added foundations for color, typography, spacing, grid, radius, shadows, blur, elevation, opacity, motion, icons, and artwork usage.
+- Added reusable component references for controls, inputs, cards, navigation, player surfaces, playlist review, taste, discovery, search, dialogs, feedback, loading, empty, offline, and chart states.
+- Added documented patterns for search, playlist review, discovery, Spotify sync, AI explanation, onboarding, settings, and navigation.
+- Added composed reference examples for workspace, Now Playing, Taste, and Playlist Review surfaces.
+- Added representative default, hover, pressed, focused, disabled, loading, error, and recovery states where applicable.
+- Reused existing canonical assets through `Design-Reference/assets/` symlinks; no duplicate logo or editorial image files were added.
+- Added repository handoff documentation connecting `Resonant-Style/` and `Design-Reference/`.
+
+### Future work
+
+- Replace candidate static examples with verified product screenshots as implementation states become available.
+- Confirm final font files, licences, Figma mappings, and production token exports.
+- Add anatomy diagrams, canonical component IDs, and code references after the implementation library is approved.
+- Add measured contrast results and platform-specific token mappings.
+- Expand mobile compositions and validate them against the product repository’s supported behaviour.
+
+### Known limitations
+
+- The Design Reference is a static visual reference, not a production React component library.
+- Controls and navigation are illustrative and do not perform product actions.
+- Some component states are representative fixtures rather than captured runtime states.
+- The reference pages load web fonts from Google Fonts when network access is available; local fallback fonts remain defined.
+
+### Next milestone
+
+Review and approve the Design Reference as the visual implementation baseline, then map its foundations and component contracts into the production application without changing product behaviour or inventing unsupported features.
+
 ## New files created
 
 - `Resonant-Style/24-MOTION.md`

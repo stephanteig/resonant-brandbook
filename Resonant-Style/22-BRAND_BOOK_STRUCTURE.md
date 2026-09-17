@@ -42,7 +42,7 @@ The target rhythm is visual interruption every two to four reference pages. A re
 
 The Visual Language chapter is the bridge between rules and art direction. `ART_DIRECTION.md` turns those principles into a reviewed library of concrete examples, while `PRODUCT_ART_DIRECTION.md` keeps product surfaces consistent across screenshots, mockups, presentations, and marketing. Neither chapter replaces product evidence.
 
-After these chapters are reviewed, freeze the Version 1 Brand Book and move implementation into a Resonant UI Kit. New product pages should use the shared component library rather than introducing one-off visual solutions.
+After these chapters are reviewed, the Version 1 Brand Book is supported by the official [`Design-Reference/`](../Design-Reference/index.html) UI Kit. New product pages should use the documented components, patterns, states, and token mappings rather than introducing one-off visual solutions. The Brand Book remains the authority for intent and identity; the Design Reference is the inspectable composition and implementation reference.
 
 ## Visual ratio
 
@@ -69,7 +69,7 @@ Aim for 65–75% visual material in the presentation PDF: product screens, logo 
 
 ## Related pages
 
-[Mockups](21-MOCKUPS.md) · [Imagery](19-IMAGERY.md) · [Visual language](VISUAL_LANGUAGE.md) · [Art direction](ART_DIRECTION.md) · [Product art direction](PRODUCT_ART_DIRECTION.md) · [Tokens](26-DESIGN_TOKENS.md)
+[Mockups](21-MOCKUPS.md) · [Imagery](19-IMAGERY.md) · [Visual language](VISUAL_LANGUAGE.md) · [Art direction](ART_DIRECTION.md) · [Product art direction](PRODUCT_ART_DIRECTION.md) · [Tokens](26-DESIGN_TOKENS.md) · [Design Reference](../Design-Reference/index.html)
 
 ## TODO
 

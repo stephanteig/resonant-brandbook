@@ -16,8 +16,23 @@ This repository is the source package for implementing the Resonant rebrand acro
 10. [`Resonant-Style/VISUAL_LANGUAGE.md`](Resonant-Style/VISUAL_LANGUAGE.md)
 11. [`Resonant-Style/ART_DIRECTION.md`](Resonant-Style/ART_DIRECTION.md)
 12. [`Resonant-Style/PRODUCT_ART_DIRECTION.md`](Resonant-Style/PRODUCT_ART_DIRECTION.md)
+13. [`Design-Reference/index.html`](Design-Reference/index.html)
 
 Read the full `Resonant-Style/` directory before making a substantial implementation decision.
+
+## Design Reference authority
+
+[`Design-Reference/`](Design-Reference/index.html) is the implementation reference for:
+
+- Components and component states
+- Patterns and user flows
+- Layout and responsive composition
+- Spacing, grid, radius, elevation, and surface treatment
+- Interaction and motion principles
+- Loading, empty, error, disconnected, and recovery examples
+- Product screenshot and marketing-mockup composition
+
+Future development must reference both `Resonant-Style/` and `Design-Reference/`. `Resonant-Style/` remains the authority for brand intent, product language, visual language, art direction, and design tokens. `Design-Reference/` shows how those rules are assembled into reusable visual surfaces. The product repository remains authoritative for implemented behaviour and technical constraints.
 
 ## Authority order
 
@@ -37,7 +52,7 @@ If a design document conflicts with implemented product behaviour, the product r
 - Maintain explicit Spotify connection, account, loading, empty, error, accessibility, and recovery states.
 - Do not invent mobile, native, social, streaming, or AI functionality that the product repository does not implement.
 - Use the Visual Language, Art Direction, and Product Art Direction chapters to keep product proof, marketing, and mockups recognisable without relying on the logo.
-- Treat the UI Kit as the next implementation phase: do not create new one-off UI pages before the shared component library, states, and token mappings exist.
+- Treat `Design-Reference/` as the shared visual implementation reference: do not create new one-off UI pages before checking the documented components, states, patterns, and token mappings.
 
 ## Asset map
 
