@@ -14,6 +14,8 @@ This repository is the source package for implementing the Resonant rebrand acro
 8. [`Resonant-Style/08-TYPOGRAPHY.md`](Resonant-Style/08-TYPOGRAPHY.md)
 9. [`Resonant-Style/26-DESIGN_TOKENS.md`](Resonant-Style/26-DESIGN_TOKENS.md)
 10. [`Resonant-Style/VISUAL_LANGUAGE.md`](Resonant-Style/VISUAL_LANGUAGE.md)
+11. [`Resonant-Style/ART_DIRECTION.md`](Resonant-Style/ART_DIRECTION.md)
+12. [`Resonant-Style/PRODUCT_ART_DIRECTION.md`](Resonant-Style/PRODUCT_ART_DIRECTION.md)
 
 Read the full `Resonant-Style/` directory before making a substantial implementation decision.
 
@@ -34,6 +36,8 @@ If a design document conflicts with implemented product behaviour, the product r
 - Keep music ahead of artwork, artwork ahead of interface, and analytics/AI in an explanatory role.
 - Maintain explicit Spotify connection, account, loading, empty, error, accessibility, and recovery states.
 - Do not invent mobile, native, social, streaming, or AI functionality that the product repository does not implement.
+- Use the Visual Language, Art Direction, and Product Art Direction chapters to keep product proof, marketing, and mockups recognisable without relying on the logo.
+- Treat the UI Kit as the next implementation phase: do not create new one-off UI pages before the shared component library, states, and token mappings exist.
 
 ## Asset map
 

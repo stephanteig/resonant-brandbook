@@ -37,6 +37,10 @@ Version 1 of the documentation repository has been expanded from a set of founda
 - Generated `Resonant-Brandbook-v0.5.pdf` and synchronized copies in `outputs/`, `pdf/`, and `Output/PDF/`.
 - Added `CODEX_HANDOFF.md` with authority order, asset map, rebrand rules, PDF build instructions, and implementation checklist.
 - Added `Resonant-Style/VISUAL_LANGUAGE.md` as the Version 1 visual DNA beyond logo, typography, colour, and spacing.
+- Added `Resonant-Style/ART_DIRECTION.md` with concrete hero styles, product-render rules, photography direction, album-art treatment, editorial rhythm, and 50 visual briefs.
+- Added `Resonant-Style/PRODUCT_ART_DIRECTION.md` with consistent presentation rules for Home, Player, Search, Library, Playlists, Taste, Playlist Review, Discover, Account, and product states.
+- Expanded `Resonant-Style/26-DESIGN_TOKENS.md` with a clearly marked proposal layer for radius, elevation, blur, transparency, motion curves, timing, and visual-language semantics; these are not production-approved tokens yet.
+- Defined the next implementation gate: freeze the Version 1 Brand Book after review, then build the Resonant UI Kit before adding new one-off product pages.
 
 ## New files created
 
@@ -94,6 +98,8 @@ Version 1 of the documentation repository has been expanded from a set of founda
 - `CODEX_HANDOFF.md`
 - `.gitignore`
 - `Resonant-Style/VISUAL_LANGUAGE.md`
+- `Resonant-Style/ART_DIRECTION.md`
+- `Resonant-Style/PRODUCT_ART_DIRECTION.md`
 - `Resonant-Brandbook-v0.2.pdf`
 - `outputs/Resonant-Brandbook-v0.2.pdf`
 - `pdf/Resonant-Brandbook-v0.2.pdf`
@@ -117,15 +123,17 @@ Version 1 of the documentation repository has been expanded from a set of founda
 - Mobile product brief; mobile is not a current shipped surface.
 - Website ownership, navigation, download links, signing status, and legal copy.
 - Approved photography/illustration moodboard and asset licensing policy.
+- Review and approve the Art Direction and Product Art Direction chapters before freezing the Version 1 Brand Book.
 
 ## Recommendations for Version 2
 
-1. Create a measured Figma foundation library from the verified UI and token seeds.
-2. Run a structured accessibility review on Windows with keyboard-only, screen-reader, zoom, high-DPI, and reduced-motion passes.
-3. Capture a release-locked screen set and annotate each screen against the mockup template.
-4. Add an engineering appendix that maps semantic tokens and component names to code.
-5. Define the future product roadmap before adding catalogue analytics, music discovery, web, or mobile chapters.
-6. Establish an asset provenance and approval workflow for screenshots, artwork, fonts, and generated media.
+1. Freeze the Version 1 Brand Book after review of the visual-language, art-direction, and product-art-direction chapters.
+2. Build the Resonant UI Kit: buttons, navigation, cards, Player, Taste, Playlist Review, charts, inputs, dialogs, dropdowns, context panels, toasts, tooltips, empty states, and loading states.
+3. Create a measured Figma foundation library from the verified UI and token seeds.
+4. Run a structured accessibility review on Windows with keyboard-only, screen-reader, zoom, high-DPI, and reduced-motion passes.
+5. Capture a release-locked screen set and annotate each screen against the mockup template.
+6. Add an engineering appendix that maps semantic tokens and component names to code.
+7. Establish an asset provenance and approval workflow for screenshots, artwork, fonts, and generated media.
 
 ## Estimated completeness
 

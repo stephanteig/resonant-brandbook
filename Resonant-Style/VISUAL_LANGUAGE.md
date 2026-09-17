@@ -568,11 +568,11 @@ Visual language is not exempt from accessibility. Provide text alternatives for 
 
 ## Related pages
 
-[Design philosophy](03-DESIGN_PHILOSOPHY.md) · [Brand identity](05-BRAND_IDENTITY.md) · [Logo system](06-LOGO_SYSTEM.md) · [Color system](07-COLOR_SYSTEM.md) · [Typography](08-TYPOGRAPHY.md) · [Layout & grid](09-LAYOUT_GRID.md) · [Iconography](17-ICONOGRAPHY.md) · [Accessibility](18-ACCESSIBILITY.md) · [Imagery](19-IMAGERY.md) · [Mockups](21-MOCKUPS.md) · [Motion](24-MOTION.md) · [Design tokens](26-DESIGN_TOKENS.md)
+[Design philosophy](03-DESIGN_PHILOSOPHY.md) · [Brand identity](05-BRAND_IDENTITY.md) · [Logo system](06-LOGO_SYSTEM.md) · [Color system](07-COLOR_SYSTEM.md) · [Typography](08-TYPOGRAPHY.md) · [Layout & grid](09-LAYOUT_GRID.md) · [Iconography](17-ICONOGRAPHY.md) · [Accessibility](18-ACCESSIBILITY.md) · [Imagery](19-IMAGERY.md) · [Art direction](ART_DIRECTION.md) · [Product art direction](PRODUCT_ART_DIRECTION.md) · [Mockups](21-MOCKUPS.md) · [Motion](24-MOTION.md) · [Design tokens](26-DESIGN_TOKENS.md)
 
 ## TODO
 
-- Create `ART_DIRECTION.md` with 50–100 approved, concrete examples covering photography, UI crops, abstract forms, textures, motion frames, product renders, and composition studies.
+- Review and approve the concrete art-direction briefs in `ART_DIRECTION.md` and the product-surface rules in `PRODUCT_ART_DIRECTION.md` before treating them as production references.
 - Commission or clear the future moodboard references before external publication.
 - Define a provenance format and asset register for every Brand Book image.
 - Validate the visual language against authenticated product screens without changing the approved foundation systems.

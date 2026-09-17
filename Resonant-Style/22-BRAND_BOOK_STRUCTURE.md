@@ -16,6 +16,8 @@ This chapter turns the design-system source into an editorial, visual Brand Book
 | Intelligence and trust | 8–12 | Assistant, methodology, freshness, privacy, connection states. |
 | Responsive system | 6–8 | Desktop, tablet, iPhone-width compositions, navigation changes. |
 | Visual language | 8–12 | Signal, wave, memory, pattern, artwork, photography, depth, motion, and recognition. |
+| Art direction | 10–16 | Hero compositions, product renders, photography, album-art treatment, UI crops, scale, rhythm, and concrete briefs. |
+| Product art direction | 8–12 | Consistent presentation of Home, Player, Search, Library, Taste, Playlist Review, Discover, Account, and product states. |
 | Handoff | 8–10 | Tokens, accessibility, motion, website, downloads, TODOs. |
 
 ## Spread rhythm
@@ -38,7 +40,9 @@ The Brand Book should create pauses between specification chapters. Use these pa
 
 The target rhythm is visual interruption every two to four reference pages. A reference page can be dense when it is useful; it should not be the only page type in a chapter.
 
-The Visual Language chapter is the bridge between rules and art direction. It should be presented as a sequence of visual principles, graphic grammar, material studies, recognition tests, and reference images. The future `ART_DIRECTION.md` chapter should turn those principles into a reviewed library of concrete examples without replacing product evidence.
+The Visual Language chapter is the bridge between rules and art direction. `ART_DIRECTION.md` turns those principles into a reviewed library of concrete examples, while `PRODUCT_ART_DIRECTION.md` keeps product surfaces consistent across screenshots, mockups, presentations, and marketing. Neither chapter replaces product evidence.
+
+After these chapters are reviewed, freeze the Version 1 Brand Book and move implementation into a Resonant UI Kit. New product pages should use the shared component library rather than introducing one-off visual solutions.
 
 ## Visual ratio
 
@@ -65,7 +69,7 @@ Aim for 65–75% visual material in the presentation PDF: product screens, logo 
 
 ## Related pages
 
-[Mockups](21-MOCKUPS.md) · [Imagery](19-IMAGERY.md) · [Visual language](VISUAL_LANGUAGE.md) · [Tokens](26-DESIGN_TOKENS.md)
+[Mockups](21-MOCKUPS.md) · [Imagery](19-IMAGERY.md) · [Visual language](VISUAL_LANGUAGE.md) · [Art direction](ART_DIRECTION.md) · [Product art direction](PRODUCT_ART_DIRECTION.md) · [Tokens](26-DESIGN_TOKENS.md)
 
 ## TODO
 

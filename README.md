@@ -21,6 +21,8 @@ The product repository is the authority for implemented behaviour. The current r
 9. [12 — Local AI system](Resonant-Style/12-AI_SYSTEM.md)
 10. [21 — Mockups](Resonant-Style/21-MOCKUPS.md)
 11. [Visual language](Resonant-Style/VISUAL_LANGUAGE.md)
+12. [Art direction](Resonant-Style/ART_DIRECTION.md)
+13. [Product art direction](Resonant-Style/PRODUCT_ART_DIRECTION.md)
 
 ## Repository map
 
@@ -32,6 +34,9 @@ The product repository is the authority for implemented behaviour. The current r
 | 17–20 | Iconography, accessibility, imagery, website, and visual language guidance |
 | 21–23 | Screen specifications, Brand Book assembly, and product requirements |
 | 24–30 | Motion, interaction patterns, tokens, states, desktop, mobile, and downloads |
+| 31–34 | Account, playlist workflows, taste profile, sound identity, and product art direction |
+
+The visual-language layer is documented in `VISUAL_LANGUAGE.md`, `ART_DIRECTION.md`, and `PRODUCT_ART_DIRECTION.md`. Together they define how Resonant remains recognisable beyond its logo, type, colour, and spacing systems.
 
 `PROJECT_STATUS.md` records the verified scope, open TODOs, and the recommended Canva production path.
 
