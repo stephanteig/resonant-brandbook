@@ -61,7 +61,7 @@ Each screen above requires a final page brief containing purpose, description, s
 
 ## Related pages
 
-[Brand Book structure](22-BRAND_BOOK_STRUCTURE.md) · [Website](20-WEBSITE.md) · [Desktop](28-DESKTOP.md) · [Mobile](29-MOBILE.md)
+[Brand Book structure](22-BRAND_BOOK_STRUCTURE.md) · [Visual language](VISUAL_LANGUAGE.md) · [Website](20-WEBSITE.md) · [Desktop](28-DESKTOP.md) · [Mobile](29-MOBILE.md)
 
 ## TODO
 

@@ -28,6 +28,10 @@ Default, hover, focus, pressed, active, disabled, loading, and error must be leg
 
 Every icon-only control needs an accessible name, visible focus, and a tooltip or adjacent label where meaning is not obvious. Decorative icons should be hidden from the accessibility tree.
 
+## Related pages
+
+[Visual language](VISUAL_LANGUAGE.md) · [Accessibility](18-ACCESSIBILITY.md) · [Components](10-COMPONENT_SYSTEM.md)
+
 ## Implementation notes
 
 Use Lucide React where possible. A custom icon requires its 24×24 grid, stroke, caps, joins, optical bounds, and 16 px fallback documented before library adoption.

@@ -15,13 +15,14 @@ This chapter turns the design-system source into an editorial, visual Brand Book
 | Product surfaces | 30–40 | Home, Player, Search, Library, Playlists, Taste, Discover, Account. |
 | Intelligence and trust | 8–12 | Assistant, methodology, freshness, privacy, connection states. |
 | Responsive system | 6–8 | Desktop, tablet, iPhone-width compositions, navigation changes. |
+| Visual language | 8–12 | Signal, wave, memory, pattern, artwork, photography, depth, motion, and recognition. |
 | Handoff | 8–10 | Tokens, accessibility, motion, website, downloads, TODOs. |
 
 ## Spread rhythm
 
 Every chapter begins with a full-page hero. Alternate visual spreads, principle spreads, annotated UI spreads, and concise reference spreads. Use asymmetry, generous margins, large type, and editorial pacing. Do not reproduce the density of the source Markdown inside Canva.
 
-## Version 0.4 editorial page language
+## Version 0.5 editorial page language
 
 The Brand Book should create pauses between specification chapters. Use these page types deliberately:
 
@@ -36,6 +37,8 @@ The Brand Book should create pauses between specification chapters. Use these pa
 | Reference page | Preserve operational detail. | Tables, rules, accessibility, implementation, TODO. |
 
 The target rhythm is visual interruption every two to four reference pages. A reference page can be dense when it is useful; it should not be the only page type in a chapter.
+
+The Visual Language chapter is the bridge between rules and art direction. It should be presented as a sequence of visual principles, graphic grammar, material studies, recognition tests, and reference images. The future `ART_DIRECTION.md` chapter should turn those principles into a reviewed library of concrete examples without replacing product evidence.
 
 ## Visual ratio
 
@@ -62,7 +65,7 @@ Aim for 65–75% visual material in the presentation PDF: product screens, logo 
 
 ## Related pages
 
-[Mockups](21-MOCKUPS.md) · [Imagery](19-IMAGERY.md) · [Tokens](26-DESIGN_TOKENS.md)
+[Mockups](21-MOCKUPS.md) · [Imagery](19-IMAGERY.md) · [Visual language](VISUAL_LANGUAGE.md) · [Tokens](26-DESIGN_TOKENS.md)
 
 ## TODO
 

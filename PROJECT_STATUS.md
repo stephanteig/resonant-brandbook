@@ -36,6 +36,7 @@ Version 1 of the documentation repository has been expanded from a set of founda
 - Reviewed all 105 rendered pages for visual rhythm, overflow, missing assets, and inconsistent layout treatment.
 - Generated `Resonant-Brandbook-v0.5.pdf` and synchronized copies in `outputs/`, `pdf/`, and `Output/PDF/`.
 - Added `CODEX_HANDOFF.md` with authority order, asset map, rebrand rules, PDF build instructions, and implementation checklist.
+- Added `Resonant-Style/VISUAL_LANGUAGE.md` as the Version 1 visual DNA beyond logo, typography, colour, and spacing.
 
 ## New files created
 
@@ -92,6 +93,7 @@ Version 1 of the documentation repository has been expanded from a set of founda
 - `Output/PDF/Resonant-Brandbook-v0.5.pdf`
 - `CODEX_HANDOFF.md`
 - `.gitignore`
+- `Resonant-Style/VISUAL_LANGUAGE.md`
 - `Resonant-Brandbook-v0.2.pdf`
 - `outputs/Resonant-Brandbook-v0.2.pdf`
 - `pdf/Resonant-Brandbook-v0.2.pdf`

@@ -22,7 +22,7 @@ Do let the playhead communicate time. Don’t make the whole interface pulse wit
 
 ## Related pages
 
-[Interaction patterns](25-INTERACTION_PATTERNS.md) · [Accessibility](18-ACCESSIBILITY.md) · [Tokens](26-DESIGN_TOKENS.md)
+[Interaction patterns](25-INTERACTION_PATTERNS.md) · [Visual language](VISUAL_LANGUAGE.md) · [Accessibility](18-ACCESSIBILITY.md) · [Tokens](26-DESIGN_TOKENS.md)
 
 ## TODO
 

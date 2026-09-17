@@ -27,7 +27,7 @@ Add alt text, captions where required, sufficient contrast, and asset provenance
 
 ## Related pages
 
-[Color](07-COLOR_SYSTEM.md) · [Mockups](21-MOCKUPS.md) · [Logo](06-LOGO_SYSTEM.md)
+[Color](07-COLOR_SYSTEM.md) · [Visual language](VISUAL_LANGUAGE.md) · [Mockups](21-MOCKUPS.md) · [Logo](06-LOGO_SYSTEM.md)
 ## Composition rules
 
 Give one image one job: establish the product, explain a workflow, or add atmosphere. Keep controls and copy away from high-frequency artwork. Crop around musical action and use overlays only when contrast-tested.

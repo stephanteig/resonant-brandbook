@@ -13,6 +13,7 @@ This repository is the source package for implementing the Resonant rebrand acro
 7. [`Resonant-Style/07-COLOR_SYSTEM.md`](Resonant-Style/07-COLOR_SYSTEM.md)
 8. [`Resonant-Style/08-TYPOGRAPHY.md`](Resonant-Style/08-TYPOGRAPHY.md)
 9. [`Resonant-Style/26-DESIGN_TOKENS.md`](Resonant-Style/26-DESIGN_TOKENS.md)
+10. [`Resonant-Style/VISUAL_LANGUAGE.md`](Resonant-Style/VISUAL_LANGUAGE.md)
 
 Read the full `Resonant-Style/` directory before making a substantial implementation decision.
 

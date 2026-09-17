@@ -20,6 +20,7 @@ The product repository is the authority for implemented behaviour. The current r
 8. [11 — Music player](Resonant-Style/11-MUSIC_PLAYER.md)
 9. [12 — Local AI system](Resonant-Style/12-AI_SYSTEM.md)
 10. [21 — Mockups](Resonant-Style/21-MOCKUPS.md)
+11. [Visual language](Resonant-Style/VISUAL_LANGUAGE.md)
 
 ## Repository map
 
@@ -28,7 +29,7 @@ The product repository is the authority for implemented behaviour. The current r
 | 00–04 | Orientation, product context, philosophy, and writing |
 | 05–10 | Brand identity and visual foundations |
 | 11–16 | Player, AI, taste, discovery, library, and search |
-| 17–20 | Iconography, accessibility, imagery, and website guidance |
+| 17–20 | Iconography, accessibility, imagery, website, and visual language guidance |
 | 21–23 | Screen specifications, Brand Book assembly, and product requirements |
 | 24–30 | Motion, interaction patterns, tokens, states, desktop, mobile, and downloads |
 
